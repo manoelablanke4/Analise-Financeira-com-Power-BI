@@ -1,3 +1,3 @@
 # Analise-Financeira-com-Power-BI
 
-![alt text](http://url/to/img.png)
+![dashboard](https://github.com/manoelablanke4/Analise-Financeira-com-Power-BI/blob/main/analise_financeira.pbix)
